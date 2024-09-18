@@ -1,0 +1,3 @@
+﻿  源.cpp
+E:\code\c++\wincore\tlb\源.cpp(90,12): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“void (__cdecl *)(void)”
+  tlb.vcxproj -> E:\code\c++\wincore\调用门\Debug\tlb.exe
